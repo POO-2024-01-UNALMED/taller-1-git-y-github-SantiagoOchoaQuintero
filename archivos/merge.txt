@@ -1,1 +1,7 @@
+La carpeta se puede subir ahora porque ahora contiene un archivo y en este archivo se hicieron cambios, es decir que ahora se puede guardar algun cambio en el repositorio y no solo un carpeta vacia.
 
+Santiago Ochoa Quintero
+18
+Aspiro a aprender mucho mas de Java y Python durante el desarrollo de la materia y que de este modo pueda desarrollar aplicaciones mas interesantes.
+
+Es importante tener cuidado con trabajar con archivos al mismo tiempo puesto que como vimos en este caso, teniamos dos archivos con nombres iguales pero contenido distinto lo cual puede llevarnos a errores como el que obtuvimos en este caso o que nos lleve a perder informacion y que ciertas caracteristicas de una aplicacion no funcionen de manera correcta. 
