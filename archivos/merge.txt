@@ -1,0 +1,1 @@
+La carpeta se puede subir ahora porque ahora contiene un archivo y en este archivo se hicieron cambios, es decir que ahora se puede capturar algun cambio en el repositorio.
