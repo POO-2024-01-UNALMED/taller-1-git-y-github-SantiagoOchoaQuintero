@@ -1,0 +1,1 @@
+La creacion de la carpeta archivos no se detecto como un cambio en el github desktop  y por esa razon no pude llevar a cabo un commit.
